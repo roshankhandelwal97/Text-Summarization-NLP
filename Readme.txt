@@ -84,5 +84,5 @@ If you'd like to contribute to the project, please follow these guidelines:
 
 Contact Information
 Roshan Khandelwal (rokhande@syr.edu), Bhuvana Sri Likhitha Kanakam, Surya Chakra Mani Kuntha Sai Kapisetti, Murali Venkata Ratna Sai Gunnam
-Under Prof. Lu Xiao 
+Under Prof. Lu Xiao(Syracuse University, NY) 
 
